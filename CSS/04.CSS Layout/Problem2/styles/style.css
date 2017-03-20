@@ -1,0 +1,97 @@
+section {
+  width: 500px;
+  height: 600px;
+  background-color: #eee;
+  border-radius: 5px;
+  padding-top: 1px;
+  padding-left: 25px;
+}
+
+.article {
+  margin-bottom: 30px;
+}
+
+article {
+  border: solid #999;
+  border-width: 1px;
+  background-color: #fff;
+  width: 470px;
+  height: 150px;
+}
+
+.picture {
+  width: 160px;
+  border: solid #999;
+  border-width: 1px;
+  position: relative;
+  top: 18px;
+  left: 12px;
+}
+
+.text {
+  width: 250px;
+  position: relative;
+  left:200px;
+  top: -90px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.buttons {
+  word-spacing: 16px;
+  position: relative;
+  top:5px;
+}
+
+.firstButtons {
+  width:80px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  top: -74px;
+  background: none;
+  border:none;
+  color: #fff;
+}
+.secondButtons {
+  width:80px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  top: -74px;
+  background: none;
+  border:none;
+  color: #fff;
+}
+.thirdButtons {
+  width:80px;
+  height: 30px;
+  position: relative;
+  left: 10px;
+  top: -74px;
+  background: none;
+  border:none;
+  color: #fff;
+}
+.buttonImg {
+  width: 100px;
+  position: relative;
+  left: 220px;
+  top:-60px;;
+}
+.buttonsSecond{
+  word-spacing: 16px;
+  position: relative;
+  top: -12px;
+}
+.buttonsThird{
+  word-spacing: 16px;
+  position: relative;
+  top: -30px;
+}
+
+input:active {
+  background-color: #fff;
+}

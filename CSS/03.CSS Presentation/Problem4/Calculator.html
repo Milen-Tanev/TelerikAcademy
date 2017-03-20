@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="Styles/Style.css">
+    <title>Calculator</title>
+  </head>
+  <body>
+    <div class="mainWindow">
+      <input type="image" src="Styles/icon.png" id="icon">
+      <span id="iconLabel">Calculator</span>
+      <span class="windowFunctions"><input type="image" src="Styles/Minimize.png"><input type="image" src="Styles/Maximize.png"><input type="image" src="Styles/Close.png"></span>
+      <header>
+        <nav class="outer">
+          <a href="#" class="headLink"><div>View</div></a>
+          <a href="#" class="headLink"><div>Edit</div></a>
+          <a href="#" class="headLink"><div>Help</div></a>
+        </nav>
+      </header>
+      <main class = "main">
+          <div class="resultBox">
+              <input type="text" name="result" id="result" value="8854455">
+          </div>
+          <div id="binaryDigits">
+          <table id="binaryFields">
+            <tr>
+              <td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td>
+            </tr>
+            <tr>
+              <td colspan="4">63</td><td colspan="3">47</td><td>32</td>
+            </tr>
+            <tr>
+              <td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td><td>0000</td>
+            </tr>
+            <tr>
+              <td colspan="4">31</td><td colspan="3">15</td><td>0</td>
+            </tr>
+          </table>
+        </div>
+
+        <div class="numericSystems">
+          <ul>
+            <li><input type="radio" value="hex" name="numerics">Hex</li>
+            <li><input type="radio" value="dec" name="numerics">Dec</li>
+            <li><input type="radio" value="oct" name="numerics">Oct</li>
+            <li><input type="radio" value="bin" name="numerics">Bin</li>
+          </ul>
+        </div>
+        <div class="numericSystems">
+          <ul>
+            <li><input type="radio" value="qword" name="size">Qword</li>
+            <li><input type="radio" value="dword" name="size">Dword</li>
+            <li><input type="radio" value="word" name="size">Word</li>
+            <li><input type="radio" value="byte" name="size">Byte</li>
+          </ul>
+        </div>
+        <div class="buttons">
+          <div class="newLine">
+            <input type="button" value=" " class="inactive">
+            <input type="button" value="Mod" class="active">
+            <input type="button" value="A" class="inactive">
+            <input type="button" value="MC" class="inactive">
+            <input type="button" value="MR" class="inactive">
+            <input type="button" value="MS" class="inactive">
+            <input type="button" value="M+" class="inactive">
+            <input type="button" value="M-" class="inactive">
+          </div>
+          <div class="newLine">
+            <input type="button" value="(" class="active">
+            <input type="button" value=")" class="active">
+            <input type="button" value="B" class="inactive">
+            <input type="button" value="&larr;" class="active">
+            <input type="button" value="CE" class="active">
+            <input type="button" value="C" class="active">
+            <input type="button" value="±" class="active">
+            <input type="button" value="√" class="inactive">
+          </div>
+          <div class="newLine">
+            <input type="button" value="RoL" class="active">
+            <input type="button" value="RoR" class="active">
+            <input type="button" value="C" class="inactive">
+            <input type="button" value="7" class="active">
+            <input type="button" value="8" class="active">
+            <input type="button" value="9" class="active">
+            <input type="button" value="/" class="active">
+            <input type="button" value="%" class="inactive">
+          </div>
+          <div class="newLine">
+            <input type="button" value="Or" class="active">
+            <input type="button" value="Xor" class="active">
+            <input type="button" value="D" class="inactive">
+            <input type="button" value="4" class="active">
+            <input type="button" value="5" class="active">
+            <input type="button" value="6" class="active">
+            <input type="button" value="*" class="active">
+            <input type="button" value="1/x" class="inactive">
+          </div>
+          <div class="newLine">
+            <input type="button" value="Lsh" class="active">
+            <input type="button" value="Rsh" class="active">
+            <input type="button" value="E" class="inactive">
+            <input type="button" value="1" class="active">
+            <input type="button" value="2" class="active">
+            <input type="button" value="3" class="active">
+            <input type="button" value="-" class="active">
+          </div>
+          <div class="newLine">
+            <input type="button" value="Not" class="active">
+            <input type="button" value="And" class="active">
+            <input type="button" value="F" class="inactive">
+            <input type="button" value="0" id="zeroButton">
+            <input type="button" value="." class="inactive">
+            <input type="button" value="+" class="active">
+          </div>
+          <div id="equalsButton"><input type="button" value="=" class="active"></div>
+        </div>
+      </main>
+
+    </div>
+  </body>
+</html>

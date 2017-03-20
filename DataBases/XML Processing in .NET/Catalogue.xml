@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./StyleSheet.xslt"?>
+<catalogue>
+  <album>
+    <name>Vulgar Display of Power</name>
+    <artist>Pantera</artist>
+    <year>1992</year>
+    <producer>Atco Records</producer>
+    <price>19.30</price>
+    <songlist>
+      <song>
+        <title>"Mouth for War"</title>
+        <duration>3:57</duration>
+      </song>
+      <song>
+        <title>"A New Level"</title>
+        <duration>3:57</duration>
+      </song>
+      <song>
+        <title>"Walk"</title>
+        <duration>5:14</duration>
+      </song>
+      <song>
+        <title>"Fucking Hostile"</title>
+        <duration>2:48</duration>
+      </song>
+      <song>
+        <title>"This Love"</title>
+        <duration>6:32</duration>
+      </song>
+      <song>
+        <title>"Rise"</title>
+        <duration>4:36</duration>
+      </song>
+      <song>
+        <title>"No Good (Attack the Radical)"</title>
+        <duration>4:49</duration>
+      </song>
+      <song>
+        <title>"Live in a Hole"</title>
+        <duration>5:00</duration>
+      </song>
+      <song>
+        <title>"Regular People (Conceit)"</title>
+        <duration>5:27</duration>
+      </song>
+      <song>
+        <title>"By Demons Be Driven"</title>
+        <duration>4:40</duration>
+      </song>
+      <song>
+        <title>"Hollow"</title>
+        <duration>5:48</duration>
+      </song>
+    </songlist>
+  </album>
+  <album>
+    <name>Rage Against the Machine</name>
+    <artist>Rage Against the Machine</artist>
+    <year>1992</year>
+    <producer>Epic Records</producer>
+    <price>18.80</price>
+    <songlist>
+      <song>
+        <title>"Bombtrack"</title>
+        <duration>4:04</duration>
+      </song>
+      <song>
+        <title>"Killing in the Name"</title>
+        <duration>5:14</duration>
+      </song>
+      <song>
+        <title>"Take the Power Back"</title>
+        <duration>5:37</duration>
+      </song>
+      <song>
+        <title>"Settle for Nothing"</title>
+        <duration>4:48</duration>
+      </song>
+      <song>
+        <title>"Bullet in the Head"</title>
+        <duration>5:07</duration>
+      </song>
+      <song>
+        <title>"Know Your Enemy"</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>"Wake Up"</title>
+        <duration>6:04</duration>
+      </song>
+      <song>
+        <title>"Fistful of Steel"</title>
+        <duration>5:31</duration>
+      </song>
+      <song>
+        <title>"Township Rebellion"</title>
+        <duration>5:24</duration>
+      </song>
+      <song>
+        <title>"Freedom"</title>
+        <duration>6:06</duration>
+      </song> 
+    </songlist>
+  </album>
+  <album>
+    <name>Ten</name>
+    <artist>Pearl Jam</artist>
+    <year>1991</year>
+    <producer>Epic Records</producer>
+    <price>19.60</price>
+    <songlist>
+      <song>
+        <title>"Once"</title>
+        <duration>3:51</duration>
+      </song>
+      <song>
+        <title>"Even Flow"</title>
+        <duration>4:53</duration>
+      </song>
+      <song>
+        <title>"Alive"</title>
+        <duration>4:51</duration>
+      </song>
+      <song>
+        <title>"Why Go"</title>
+        <duration>3:20</duration>
+      </song>
+      <song>
+        <title>"Black"</title>
+        <duration>5:43</duration>
+      </song>
+      <song>
+        <title>"Jeremy"</title>
+        <duration>5:18</duration>
+      </song>
+      <song>
+        <title>"Oceans"</title>
+        <duration>2:42</duration>
+      </song>
+      <song>
+        <title>"Porch"</title>
+        <duration>3:30</duration>
+      </song>
+      <song>
+        <title>"Gerden"</title>
+        <duration>4:59</duration>
+      </song>
+      <song>
+        <title>"Deep"</title>
+        <duration>4:18</duration>
+      </song>
+      <song>
+        <title>"Release"</title>
+        <duration>9:05</duration>
+      </song>
+    </songlist>
+  </album>
+  <album>
+    <name>Are You Experienced?</name>
+    <artist>The Jimi Hendrix Experience</artist>
+    <year>1967</year>
+    <producer>Track Records</producer>
+    <price>23.98</price>
+    <songlist>
+      <song>
+        <title>"Purple Haze"</title>
+        <duration>2:46</duration>
+      </song>
+      <song>
+        <title>"Manic Depression"</title>
+        <duration>3:46</duration>
+      </song>
+      <song>
+        <title>"Hey Joe"</title>
+        <duration>3:23</duration>
+      </song>
+      <song>
+        <title>"Love or Confusion"</title>
+        <duration>3:15</duration>
+      </song>
+      <song>
+        <title>"May This Be Love"</title>
+        <duration>3:14</duration>
+      </song>
+      <song>
+        <title>"I Don't Live Today"</title>
+        <duration>3:55</duration>
+      </song>
+      <song>
+        <title>"The Wind Cries Mary"</title>
+        <duration>3:21</duration>
+      </song>
+      <song>
+        <title>"Fire"</title>
+        <duration>2:34</duration>
+      </song>
+      <song>
+        <title>"Third Stone from the Sun"</title>
+        <duration>6:40</duration>
+      </song>
+      <song>
+        <title>"Foxy Lady"</title>
+        <duration>3:22</duration>
+      </song>
+      <song>
+        <title>"Are You Experienced?"</title>
+        <duration>3:55</duration>
+      </song>
+    </songlist>
+  </album>
+  <album>
+    <name>Highway 61 Revisited</name>
+    <artist>Bob Dylan</artist>
+    <year>1965</year>
+    <producer>Columbia Records</producer>
+    <price>25.19</price>
+    <songlist>
+      <song>
+        <title>"Like a Rolling Stone"</title>
+        <duration>6:13</duration>
+      </song>
+      <song>
+        <title>"Tombstone Blues"</title>
+        <duration>6:00</duration>
+      </song>
+      <song>
+        <title>"It Takes a Lot to Laugh, It Takes a Train to Cry"</title>
+        <duration>4:09</duration>
+      </song>
+      <song>
+        <title>"From a Buick 6"</title>
+        <duration>3:19</duration>
+      </song>
+      <song>
+        <title>"Ballad of a Thin Man"</title>
+        <duration>5:58</duration>
+      </song>
+      <song>
+        <title>"Queen Jane Approximately"</title>
+        <duration>5:31</duration>
+      </song>
+      <song>
+        <title>"Highway 61 Revisited"</title>
+        <duration>3:30</duration>
+      </song>
+      <song>
+        <title>"Just Like Tom Thumb's Blues"</title>
+        <duration>5:32</duration>
+      </song>
+      <song>
+        <title>"Desolation Row"</title>
+        <duration>11:21</duration>
+      </song>
+    </songlist>
+  </album>
+  <album>
+    <name>Lightning Bolt</name>
+    <artist>Pearl Jam</artist>
+    <year>2013</year>
+    <producer>Republic</producer>
+    <price>20.00</price>
+    <songlist>
+      <song>
+        <title>"Getaway"</title>
+        <duration>3:26</duration>
+      </song>
+      <song>
+        <title>"Mind Your Manners"</title>
+        <duration>2:38</duration>
+      </song>
+      <song>
+        <title>"My Father's Son"</title>
+        <duration>3:07</duration>
+      </song>
+      <song>
+        <title>"Sirens"</title>
+        <duration>5:41</duration>
+      </song>
+      <song>
+        <title>"Lightning Bolt"</title>
+        <duration>4:13</duration>
+      </song>
+      <song>
+        <title>"Infallible"</title>
+        <duration>5:22</duration>
+      </song>
+      <song>
+        <title>"Pendulum"</title>
+        <duration>3:44</duration>
+      </song>
+      <song>
+        <title>"Swallowed Whole"</title>
+        <duration>3:51</duration>
+      </song>
+      <song>
+        <title>"Let the Records Play"</title>
+        <duration>3:46</duration>
+      </song>
+      <song>
+        <title>"Sleeping By Myself"</title>
+        <duration>3:04</duration>
+      </song>
+      <song>
+        <title>"Yellow Moon"</title>
+        <duration>3:52</duration>
+      </song>
+      <song>
+        <title>"Future Days"</title>
+        <duration>4:22</duration>
+      </song>
+    </songlist>
+  </album>
+</catalogue>

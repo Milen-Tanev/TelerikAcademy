@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<title>Vulgar Display of Power</title>
+		<artist>Pantera</artist>
+	</album>
+	<album>
+		<title>Rage Against the Machine</title>
+		<artist>Rage Against the Machine</artist>
+	</album>
+	<album>
+		<title>Ten</title>
+		<artist>Pearl Jam</artist>
+	</album>
+	<album>
+		<title>Are You Experienced?</title>
+		<artist>The Jimi Hendrix Experience</artist>
+	</album>
+	<album>
+		<title>Highway 61 Revisited</title>
+		<artist>Bob Dylan</artist>
+	</album>
+	<album>
+		<title>Lightning Bolt</title>
+		<artist>Pearl Jam</artist>
+	</album>
+</albums>

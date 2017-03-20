@@ -1,0 +1,15 @@
+body {
+  font-family: consolas;
+  color: #0094ff;
+}
+@font-face {
+    font-family: edwardian;
+    src: url(edwardian.ttf);
+}
+main::first-letter {
+  font-size: 2em;
+  font-family: edwardian;
+}
+header {
+  font-weight: bold; 
+}

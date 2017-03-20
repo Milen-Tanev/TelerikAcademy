@@ -1,0 +1,47 @@
+table {
+  border-bottom-style: solid;
+  border-bottom-color: rgb(200, 198, 176);
+  border-bottom-width:1px;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  font-size: 0.8em;
+}
+img {
+  position: relative;
+  bottom: -3px;
+}
+tr:nth-child(even) {
+  background: rgb(255, 255, 255);
+}
+tr:nth-child(odd) {
+  background: rgb(236, 236, 216);
+}
+th {
+  background: rgb(82, 181, 6);
+}
+th, td {
+  border-right-style: solid;
+  border-right-color: rgb(200, 198, 176);
+  border-right-width:1px;
+  padding: 4px;
+  text-align: left;
+  height: 10px;
+}
+th:last-child, td:last-child {
+  border-right-style: none;
+}
+input {
+
+}
+.ContactName {
+  width: 150px;
+}
+.City {
+  width:120px;
+}
+.Country {
+  width:130px;
+}
+img {
+  width:25px;
+}

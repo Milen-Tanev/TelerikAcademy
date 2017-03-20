@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="./StyleSheet.xslt"?>
+<students:students xmlns:students="urn:students">
+  <students:student>
+    <students:name>Student One</students:name>
+    <students:sex>Male</students:sex>
+    <students:birth_date>20.8.1990</students:birth_date>
+    <students:phone>0123 456 789</students:phone>
+    <students:email>Email_1@email.com</students:email>  
+    <students:course>Third</students:course>
+    <students:specialty>Programming</students:specialty>
+    <students:faculty_number>123456</students:faculty_number>
+    <students:taken_exams xmlns:taken_exams="urn:exams">
+      <taken_exams:exam>
+        <taken_exams:name>C# HQC</taken_exams:name>
+        <taken_exams:tutor>Gosho</taken_exams:tutor>
+        <taken_exams:score>5</taken_exams:score>
+      </taken_exams:exam>
+      <taken_exams:exam>
+        <taken_exams:name>JS Apps</taken_exams:name>
+        <taken_exams:tutor>Pesho</taken_exams:tutor>
+        <taken_exams:score>3</taken_exams:score>
+      </taken_exams:exam>
+      <taken_exams:exam>
+        <taken_exams:name>JS OOP</taken_exams:name>
+        <taken_exams:tutor>Tosho</taken_exams:tutor>
+        <taken_exams:score>4</taken_exams:score>
+      </taken_exams:exam>
+    </students:taken_exams>
+    <students:enrollment xmlns:enrollment="urn:enrollment">
+      <enrollment:date>01.02.2016</enrollment:date>
+      <enrollment:exam_score>01.02.2016</enrollment:exam_score>
+    </students:enrollment>
+    <students:endorsement>Gosho</students:endorsement>
+  </students:student>
+  <students:student>
+    <students:name>Student Two</students:name>
+    <students:sex>Female</students:sex>
+    <students:birth_date>28.11.1989</students:birth_date>
+    <students:phone>0123 456 798</students:phone>
+    <students:email>Email_2@email.com</students:email>
+    <students:course>Fourth</students:course>
+    <students:specialty>Programming</students:specialty>
+    <students:faculty_number>654321</students:faculty_number>
+    <students:taken_exams xmlns:taken_exams="urn:exams">
+      <taken_exams:exam>
+        <taken_exams:name>C# HQC</taken_exams:name>
+        <taken_exams:tutor>Gosho</taken_exams:tutor>
+        <taken_exams:score>3</taken_exams:score>
+      </taken_exams:exam>
+      <taken_exams:exam>
+        <taken_exams:name>JS Apps</taken_exams:name>
+        <taken_exams:tutor>Pesho</taken_exams:tutor>
+        <taken_exams:score>6</taken_exams:score>
+      </taken_exams:exam>
+      <taken_exams:exam>
+        <taken_exams:name>JS OOP</taken_exams:name>
+        <taken_exams:tutor>Tosho</taken_exams:tutor>
+        <taken_exams:score>3</taken_exams:score>
+      </taken_exams:exam>
+    </students:taken_exams>
+    <students:enrollment xmlns:enrollment="urn:enrollment">
+      <enrollment:date>01.02.2016</enrollment:date>
+      <enrollment:exam_score>01.02.2016</enrollment:exam_score>
+    </students:enrollment>
+    <students:endorsement>Tosho</students:endorsement>
+  </students:student>
+  <students:student>
+    <students:name>Student Three</students:name>
+    <students:sex>Female</students:sex>
+    <students:birth_date>8.1.1991</students:birth_date>
+    <students:phone>0987 654 321</students:phone>
+    <students:email>Email_21@email.com</students:email>
+    <students:course>Third</students:course>
+    <students:specialty>History</students:specialty>
+    <students:faculty_number>111111</students:faculty_number>
+    <students:taken_exams xmlns:taken_exams="urn:exams">
+      <taken_exams:exam>
+        <taken_exams:name>Ancient History</taken_exams:name>
+        <taken_exams:tutor>Gosho</taken_exams:tutor>
+        <taken_exams:score>4</taken_exams:score>
+      </taken_exams:exam>
+      <taken_exams:exam>
+        <taken_exams:name>Modern History</taken_exams:name>
+        <taken_exams:tutor>Pesho</taken_exams:tutor>
+        <taken_exams:score>5</taken_exams:score>
+      </taken_exams:exam>
+      <taken_exams:exam>
+        <taken_exams:name>European History</taken_exams:name>
+        <taken_exams:tutor>Tosho</taken_exams:tutor>
+        <taken_exams:score>4</taken_exams:score>
+      </taken_exams:exam>
+    </students:taken_exams>
+    <students:enrollment xmlns:enrollment="urn:enrollment">
+      <enrollment:date>01.02.2016</enrollment:date>
+      <enrollment:exam_score>01.02.2016</enrollment:exam_score>
+    </students:enrollment>
+    <students:endorsement>Pesho</students:endorsement>
+  </students:student>
+</students:students>

@@ -1,0 +1,179 @@
+body {
+  font-family: sans-serif;
+}
+@font-face {
+    font-family: Consolas;
+    src: url(Styles/Consolas.ttf);
+}
+.mainWindow{
+  background: -webkit-gradient(linear, 0% 0%, 0% 50%, from(#d8eafc), to(#aacaea));
+  width: 489px;
+  height: 465px;
+  border-radius: 7px;
+  padding-left: 5px;
+}
+#icon {
+  width:20px;
+  padding-top:5px;
+}
+
+#iconLabel {
+  position: relative;
+  top:-6px;
+  left:1px;
+}
+
+.windowFunctions {
+  width: 90px;
+  position: relative;
+  right:-277px;
+  top:-12px;
+}
+
+.outer {
+  width: 475px;
+  height: 17px;
+  background: -webkit-gradient(linear, 0% 0%, 0% 50%, from(#f2f5fa), to(#dce2f3));
+  border: solid #919fac;
+  border-bottom: solid #c1c5d1;
+  border-width: 2px;
+  word-spacing: 15px;
+  font-size: 0.9em;
+  padding-left: 5px;
+  font-family: Consolas;
+}
+.outer a {
+  color: black;
+  text-decoration: none;
+  display:inline-block
+}
+.outer  a::first-letter {
+  text-decoration: underline;
+}
+.main {
+  width:480px;
+  height: 400px;
+  background: -webkit-gradient(linear, 0% 0%, 0% 50%, from(#edf4fc), to(#ecf3fc));
+  border-left: solid #919fac;
+  border-right: solid #919fac;
+  border-bottom: solid #919fac;
+  border-width: 2px;
+}
+.resultBox {
+  text-align: center;
+}
+#result {
+  background: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#e5effb), to(#feffff));
+  width: 450px;
+  height: 50px;
+  font-size: 1.8em;
+  text-align: right;
+  margin-top: 15px;
+  border-radius: 3px;
+  padding-right: 5px;
+  font-family: Consolas;
+}
+
+#binaryDigits {
+  margin-top: 5px;
+  border-radius: 3px;
+  margin-left: 10px;
+  border:1px solid #8e9cad;
+  width:445px;
+  border-radius: 3px;
+  padding:5px;
+  font-family: Consolas;
+}
+
+#binaryFields {
+  border-spacing: 22px 0;
+  position: relative;
+  left:-10px;
+}
+
+#binaryFields tr:nth-child(odd) {
+  font-size: 0.9em;
+  color: #475e85;
+}
+#binaryFields tr td:last-child {
+  text-align: right
+}
+
+#binaryFields tr:nth-child(even) {
+  font-size: 0.9em;
+  color: #696869;
+}
+
+div .numericSystems {
+  border: solid #919fac;
+  border-width:1px;
+  border-radius: 3px;
+  width:100px;
+  position: relative;
+  left: 10px;
+  top:5px;
+  font-size: 0.9em;
+  margin-bottom: 5px;
+}
+
+.numericSystems ul {
+  list-style-type: none;
+  font-size: 0.9em;
+  color: #475e85;
+
+  font-family: serif;
+}
+
+.numericSystems ul li {
+  position: relative;
+  left: -26px;
+}
+.buttons {
+  position: relative;
+  top: -211px;
+  left:120px;
+}
+.active {
+  background: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#feffff), to(#d5e0ee ));
+  border:1px solid #93a0b1;
+  border-radius: 3px;
+  width: 39px;
+  height: 32px;
+  color: #475e85;
+  font-family: serif;
+}
+.newLine {
+  padding-bottom: 4px;
+}
+#equalsButton {
+  position: relative;
+  top: -72px;
+  left: 304px;
+}
+#equalsButton input {
+  height: 68px;
+}
+
+#zeroButton {
+  background: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#f2f8fc), to(#d5e0ee));
+  border:1px solid #93a0b1;
+  border-radius: 3px;
+  width:83px;
+  height: 32px;
+  color: #475e85;
+  font-family: serif;
+}
+
+.active:hover
+{
+  background: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#fdeddc), to(#fbd57e));
+}
+.inactive {
+  border:1px solid #93a0b1;
+  background-color: #d9e4f1;
+  border-radius: 3px;
+  width: 39px;
+  height: 32px;
+  color: #475e85;
+  font-family: serif;
+}
