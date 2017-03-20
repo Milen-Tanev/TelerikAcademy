@@ -1,1 +1,1 @@
-# TelerikAcademy
+# TelerikAcademy homeworks and exams
