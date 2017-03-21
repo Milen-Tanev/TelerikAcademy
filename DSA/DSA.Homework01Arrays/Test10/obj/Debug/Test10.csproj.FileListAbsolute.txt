@@ -1,0 +1,6 @@
+C:\Users\Milen Tanev\documents\visual studio 2015\Projects\DSA.Homework01Arrays\Test10\bin\Debug\Test10.exe.config
+C:\Users\Milen Tanev\documents\visual studio 2015\Projects\DSA.Homework01Arrays\Test10\bin\Debug\Test10.exe
+C:\Users\Milen Tanev\documents\visual studio 2015\Projects\DSA.Homework01Arrays\Test10\bin\Debug\Test10.pdb
+C:\Users\Milen Tanev\documents\visual studio 2015\Projects\DSA.Homework01Arrays\Test10\obj\Debug\Test10.csprojResolveAssemblyReference.cache
+C:\Users\Milen Tanev\documents\visual studio 2015\Projects\DSA.Homework01Arrays\Test10\obj\Debug\Test10.exe
+C:\Users\Milen Tanev\documents\visual studio 2015\Projects\DSA.Homework01Arrays\Test10\obj\Debug\Test10.pdb

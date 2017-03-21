@@ -1,0 +1,5 @@
+C:\Users\Milen Tanev\Documents\Visual Studio 2015\Projects\DSA.Homework01Arrays\Problem10\bin\Debug\Problem10.exe.config
+C:\Users\Milen Tanev\Documents\Visual Studio 2015\Projects\DSA.Homework01Arrays\Problem10\bin\Debug\Problem10.exe
+C:\Users\Milen Tanev\Documents\Visual Studio 2015\Projects\DSA.Homework01Arrays\Problem10\bin\Debug\Problem10.pdb
+C:\Users\Milen Tanev\Documents\Visual Studio 2015\Projects\DSA.Homework01Arrays\Problem10\obj\Debug\Problem10.exe
+C:\Users\Milen Tanev\Documents\Visual Studio 2015\Projects\DSA.Homework01Arrays\Problem10\obj\Debug\Problem10.pdb

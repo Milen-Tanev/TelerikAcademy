@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1.SelectionSorter", "DSAHomeworkSortingAlgorhythms\Problem1.SelectionSorter.csproj", "{1CA9F6C7-0328-4652-9D8B-B130AC405FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.QuickSorter", "Problem2.QuickSorter\Problem2.QuickSorter.csproj", "{8F4E024A-9677-40FC-BBDA-73C672432E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.MergeSorter", "Problem3.MergeSorter\Problem3.MergeSorter.csproj", "{92737C6A-AA4C-45BB-B161-12952E7B8AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA9F6C7-0328-4652-9D8B-B130AC405FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA9F6C7-0328-4652-9D8B-B130AC405FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA9F6C7-0328-4652-9D8B-B130AC405FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA9F6C7-0328-4652-9D8B-B130AC405FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4E024A-9677-40FC-BBDA-73C672432E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4E024A-9677-40FC-BBDA-73C672432E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4E024A-9677-40FC-BBDA-73C672432E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4E024A-9677-40FC-BBDA-73C672432E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92737C6A-AA4C-45BB-B161-12952E7B8AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92737C6A-AA4C-45BB-B161-12952E7B8AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92737C6A-AA4C-45BB-B161-12952E7B8AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92737C6A-AA4C-45BB-B161-12952E7B8AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
