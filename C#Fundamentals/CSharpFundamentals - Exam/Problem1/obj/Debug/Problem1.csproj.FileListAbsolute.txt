@@ -1,0 +1,6 @@
+F:\Telerik\TelerikAcademy\C#Fundamentals\CSharpFundamentals - Exam\Problem1\bin\Debug\Problem1.exe.config
+F:\Telerik\TelerikAcademy\C#Fundamentals\CSharpFundamentals - Exam\Problem1\bin\Debug\Problem1.exe
+F:\Telerik\TelerikAcademy\C#Fundamentals\CSharpFundamentals - Exam\Problem1\bin\Debug\Problem1.pdb
+F:\Telerik\TelerikAcademy\C#Fundamentals\CSharpFundamentals - Exam\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+F:\Telerik\TelerikAcademy\C#Fundamentals\CSharpFundamentals - Exam\Problem1\obj\Debug\Problem1.exe
+F:\Telerik\TelerikAcademy\C#Fundamentals\CSharpFundamentals - Exam\Problem1\obj\Debug\Problem1.pdb
